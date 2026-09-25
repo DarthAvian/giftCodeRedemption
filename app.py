@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 
 # Google Sheet CSV URL
-SHEET_ID = "https://docs.google.com/spreadsheets/d/1oMpMuS_lrDgQSRpXNcVCpclbKz7gIq1IqtzXomGMAis/edit?gid=0#gid=0"
+SHEET_ID = "1oMpMuS_lrDgQSFlpXNcVCpclb"
 GID = "0"
 SHEET_CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid={GID}"
 
