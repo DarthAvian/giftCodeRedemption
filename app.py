@@ -11,7 +11,7 @@ GID = "0"
 SHEET_CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid={GID}"
 
 # Century Game Constants
-DEFAULT_KINGDOM = "113"
+DEFAULT_KINGDOM = "1604"
 SECRET_SALT = "tB87#kPtkxqOS2"
 
 # Legacy API Host (Bypasses Akamai Cloud WAF Blocks)
