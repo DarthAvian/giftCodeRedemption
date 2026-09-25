@@ -8,7 +8,7 @@ import streamlit as st
 # Google Sheet CSV URL
 SHEET_ID = "1oMpMuS_lrDgQSFlpXNcVCpclbKz7gIq1lqtzXomGMAis"
 GID = "0"
-SHEET_CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid={GID}"
+SHEET_CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv?gid={GID}"
 
 # Century Game Constants
 DEFAULT_KINGDOM = "1604"
